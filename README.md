@@ -53,5 +53,3 @@ Run data generation or insertion scripts:
 python craftData.py
 python main.py
 ```
-
-## License
