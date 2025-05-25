@@ -33,6 +33,7 @@ npx prisma migrate dev --name init
 Run migrations if needed:
 ```bash
 cd data
+python -m venv .venv
 source .venv\Scripts\activate
 pip install -r requirements.txt
 ```
