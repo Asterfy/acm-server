@@ -1,0 +1,227 @@
+[
+    {
+        "lenguaje_dominio": "Javascript",
+        "area_especialidad": "machine learning",
+        "id_alumno": 53
+    },
+    {
+        "lenguaje_dominio": "Java",
+        "area_especialidad": "game development",
+        "id_alumno": 52
+    },
+    {
+        "lenguaje_dominio": "Rust",
+        "area_especialidad": "game development",
+        "id_alumno": 44
+    },
+    {
+        "lenguaje_dominio": "Javascript",
+        "area_especialidad": "data science",
+        "id_alumno": 47
+    },
+    {
+        "lenguaje_dominio": "Javascript",
+        "area_especialidad": "blockchain",
+        "id_alumno": 22
+    },
+    {
+        "lenguaje_dominio": "Python",
+        "area_especialidad": "blockchain",
+        "id_alumno": 18
+    },
+    {
+        "lenguaje_dominio": "Rust",
+        "area_especialidad": "cybersecurity",
+        "id_alumno": 3
+    },
+    {
+        "lenguaje_dominio": "C++",
+        "area_especialidad": "artificial intelligence",
+        "id_alumno": 47
+    },
+    {
+        "lenguaje_dominio": "Java",
+        "area_especialidad": "cybersecurity",
+        "id_alumno": 26
+    },
+    {
+        "lenguaje_dominio": "Javascript",
+        "area_especialidad": "artificial intelligence",
+        "id_alumno": 30
+    },
+    {
+        "lenguaje_dominio": "Go",
+        "area_especialidad": "machine learning",
+        "id_alumno": 31
+    },
+    {
+        "lenguaje_dominio": "Rust",
+        "area_especialidad": "cloud computing",
+        "id_alumno": 7
+    },
+    {
+        "lenguaje_dominio": "Javascript",
+        "area_especialidad": "game development",
+        "id_alumno": 5
+    },
+    {
+        "lenguaje_dominio": "Python",
+        "area_especialidad": "machine learning",
+        "id_alumno": 52
+    },
+    {
+        "lenguaje_dominio": "Go",
+        "area_especialidad": "game development",
+        "id_alumno": 29
+    },
+    {
+        "lenguaje_dominio": "Python",
+        "area_especialidad": "web development",
+        "id_alumno": 43
+    },
+    {
+        "lenguaje_dominio": "Rust",
+        "area_especialidad": "web development",
+        "id_alumno": 2
+    },
+    {
+        "lenguaje_dominio": "Python",
+        "area_especialidad": "web development",
+        "id_alumno": 14
+    },
+    {
+        "lenguaje_dominio": "Python",
+        "area_especialidad": "web development",
+        "id_alumno": 29
+    },
+    {
+        "lenguaje_dominio": "Javascript",
+        "area_especialidad": "cybersecurity",
+        "id_alumno": 22
+    },
+    {
+        "lenguaje_dominio": "Rust",
+        "area_especialidad": "mobile development",
+        "id_alumno": 16
+    },
+    {
+        "lenguaje_dominio": "C++",
+        "area_especialidad": "cloud computing",
+        "id_alumno": 41
+    },
+    {
+        "lenguaje_dominio": "Rust",
+        "area_especialidad": "cloud computing",
+        "id_alumno": 1
+    },
+    {
+        "lenguaje_dominio": "Python",
+        "area_especialidad": "artificial intelligence",
+        "id_alumno": 9
+    },
+    {
+        "lenguaje_dominio": "Python",
+        "area_especialidad": "cybersecurity",
+        "id_alumno": 59
+    },
+    {
+        "lenguaje_dominio": "Rust",
+        "area_especialidad": "artificial intelligence",
+        "id_alumno": 57
+    },
+    {
+        "lenguaje_dominio": "Rust",
+        "area_especialidad": "artificial intelligence",
+        "id_alumno": 57
+    },
+    {
+        "lenguaje_dominio": "Go",
+        "area_especialidad": "cloud computing",
+        "id_alumno": 44
+    },
+    {
+        "lenguaje_dominio": "Go",
+        "area_especialidad": "data science",
+        "id_alumno": 49
+    },
+    {
+        "lenguaje_dominio": "Python",
+        "area_especialidad": "artificial intelligence",
+        "id_alumno": 39
+    },
+    {
+        "lenguaje_dominio": "Javascript",
+        "area_especialidad": "artificial intelligence",
+        "id_alumno": 44
+    },
+    {
+        "lenguaje_dominio": "Go",
+        "area_especialidad": "cybersecurity",
+        "id_alumno": 30
+    },
+    {
+        "lenguaje_dominio": "Javascript",
+        "area_especialidad": "cloud computing",
+        "id_alumno": 26
+    },
+    {
+        "lenguaje_dominio": "Java",
+        "area_especialidad": "data science",
+        "id_alumno": 2
+    },
+    {
+        "lenguaje_dominio": "Javascript",
+        "area_especialidad": "machine learning",
+        "id_alumno": 23
+    },
+    {
+        "lenguaje_dominio": "C++",
+        "area_especialidad": "cybersecurity",
+        "id_alumno": 22
+    },
+    {
+        "lenguaje_dominio": "Go",
+        "area_especialidad": "data science",
+        "id_alumno": 17
+    },
+    {
+        "lenguaje_dominio": "C++",
+        "area_especialidad": "mobile development",
+        "id_alumno": 6
+    },
+    {
+        "lenguaje_dominio": "Rust",
+        "area_especialidad": "mobile development",
+        "id_alumno": 42
+    },
+    {
+        "lenguaje_dominio": "C++",
+        "area_especialidad": "mobile development",
+        "id_alumno": 48
+    },
+    {
+        "lenguaje_dominio": "Rust",
+        "area_especialidad": "game development",
+        "id_alumno": 9
+    },
+    {
+        "lenguaje_dominio": "Rust",
+        "area_especialidad": "game development",
+        "id_alumno": 34
+    },
+    {
+        "lenguaje_dominio": "C++",
+        "area_especialidad": "artificial intelligence",
+        "id_alumno": 41
+    },
+    {
+        "lenguaje_dominio": "Java",
+        "area_especialidad": "web development",
+        "id_alumno": 57
+    },
+    {
+        "lenguaje_dominio": "Java",
+        "area_especialidad": "web development",
+        "id_alumno": 24
+    }
+]

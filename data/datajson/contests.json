@@ -1,0 +1,72 @@
+[
+    {
+        "edicion": "Edicion X",
+        "description": "Cuscontest - Edicion X",
+        "fecha": "2014-8-19",
+        "anio": 2014,
+        "id_semestre": 10
+    },
+    {
+        "edicion": "Edicion XII",
+        "description": "Cuscontest - Edicion XII",
+        "fecha": "2005-11-13",
+        "anio": 2005,
+        "id_semestre": 10
+    },
+    {
+        "edicion": "Edicion XXI",
+        "description": "Cuscontest - Edicion XXI",
+        "fecha": "2006-1-23",
+        "anio": 2006,
+        "id_semestre": 5
+    },
+    {
+        "edicion": "Edicion XXVI",
+        "description": "Cuscontest - Edicion XXVI",
+        "fecha": "2017-9-25",
+        "anio": 2017,
+        "id_semestre": 1
+    },
+    {
+        "edicion": "Edicion XXVIII",
+        "description": "Cuscontest - Edicion XXVIII",
+        "fecha": "2020-10-13",
+        "anio": 2020,
+        "id_semestre": 7
+    },
+    {
+        "edicion": "Edicion XXII",
+        "description": "Cuscontest - Edicion XXII",
+        "fecha": "2007-5-8",
+        "anio": 2007,
+        "id_semestre": 1
+    },
+    {
+        "edicion": "Edicion XIX",
+        "description": "Cuscontest - Edicion XIX",
+        "fecha": "2004-5-12",
+        "anio": 2004,
+        "id_semestre": 7
+    },
+    {
+        "edicion": "Edicion XXX",
+        "description": "Cuscontest - Edicion XXX",
+        "fecha": "2016-4-14",
+        "anio": 2016,
+        "id_semestre": 3
+    },
+    {
+        "edicion": "Edicion XXIII",
+        "description": "Cuscontest - Edicion XXIII",
+        "fecha": "2010-3-24",
+        "anio": 2010,
+        "id_semestre": 3
+    },
+    {
+        "edicion": "Edicion II",
+        "description": "Cuscontest - Edicion II",
+        "fecha": "2000-1-7",
+        "anio": 2000,
+        "id_semestre": 9
+    }
+]

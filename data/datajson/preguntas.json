@@ -1,0 +1,702 @@
+[
+    {
+        "letra_pregunta": "A",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_x/a.json",
+        "id_contest": 1
+    },
+    {
+        "letra_pregunta": "B",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_x/b.json",
+        "id_contest": 1
+    },
+    {
+        "letra_pregunta": "C",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_x/c.json",
+        "id_contest": 1
+    },
+    {
+        "letra_pregunta": "D",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_x/d.json",
+        "id_contest": 1
+    },
+    {
+        "letra_pregunta": "E",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_x/e.json",
+        "id_contest": 1
+    },
+    {
+        "letra_pregunta": "F",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_x/f.json",
+        "id_contest": 1
+    },
+    {
+        "letra_pregunta": "G",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_x/g.json",
+        "id_contest": 1
+    },
+    {
+        "letra_pregunta": "H",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_x/h.json",
+        "id_contest": 1
+    },
+    {
+        "letra_pregunta": "I",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_x/i.json",
+        "id_contest": 1
+    },
+    {
+        "letra_pregunta": "J",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_x/j.json",
+        "id_contest": 1
+    },
+    {
+        "letra_pregunta": "K",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_x/k.json",
+        "id_contest": 1
+    },
+    {
+        "letra_pregunta": "L",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_x/l.json",
+        "id_contest": 1
+    },
+    {
+        "letra_pregunta": "M",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_x/m.json",
+        "id_contest": 1
+    },
+    {
+        "letra_pregunta": "N",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_x/n.json",
+        "id_contest": 1
+    },
+    {
+        "letra_pregunta": "A",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_xii/a.json",
+        "id_contest": 2
+    },
+    {
+        "letra_pregunta": "B",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_xii/b.json",
+        "id_contest": 2
+    },
+    {
+        "letra_pregunta": "C",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_xii/c.json",
+        "id_contest": 2
+    },
+    {
+        "letra_pregunta": "D",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_xii/d.json",
+        "id_contest": 2
+    },
+    {
+        "letra_pregunta": "E",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_xii/e.json",
+        "id_contest": 2
+    },
+    {
+        "letra_pregunta": "F",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_xii/f.json",
+        "id_contest": 2
+    },
+    {
+        "letra_pregunta": "G",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_xii/g.json",
+        "id_contest": 2
+    },
+    {
+        "letra_pregunta": "H",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_xii/h.json",
+        "id_contest": 2
+    },
+    {
+        "letra_pregunta": "I",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_xii/i.json",
+        "id_contest": 2
+    },
+    {
+        "letra_pregunta": "J",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_xii/j.json",
+        "id_contest": 2
+    },
+    {
+        "letra_pregunta": "K",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_xii/k.json",
+        "id_contest": 2
+    },
+    {
+        "letra_pregunta": "L",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_xii/l.json",
+        "id_contest": 2
+    },
+    {
+        "letra_pregunta": "M",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_xii/m.json",
+        "id_contest": 2
+    },
+    {
+        "letra_pregunta": "N",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_xii/n.json",
+        "id_contest": 2
+    },
+    {
+        "letra_pregunta": "A",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_xxi/a.json",
+        "id_contest": 3
+    },
+    {
+        "letra_pregunta": "B",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_xxi/b.json",
+        "id_contest": 3
+    },
+    {
+        "letra_pregunta": "C",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_xxi/c.json",
+        "id_contest": 3
+    },
+    {
+        "letra_pregunta": "D",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_xxi/d.json",
+        "id_contest": 3
+    },
+    {
+        "letra_pregunta": "E",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_xxi/e.json",
+        "id_contest": 3
+    },
+    {
+        "letra_pregunta": "F",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_xxi/f.json",
+        "id_contest": 3
+    },
+    {
+        "letra_pregunta": "G",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_xxi/g.json",
+        "id_contest": 3
+    },
+    {
+        "letra_pregunta": "H",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_xxi/h.json",
+        "id_contest": 3
+    },
+    {
+        "letra_pregunta": "I",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_xxi/i.json",
+        "id_contest": 3
+    },
+    {
+        "letra_pregunta": "J",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_xxi/j.json",
+        "id_contest": 3
+    },
+    {
+        "letra_pregunta": "K",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_xxi/k.json",
+        "id_contest": 3
+    },
+    {
+        "letra_pregunta": "L",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_xxi/l.json",
+        "id_contest": 3
+    },
+    {
+        "letra_pregunta": "M",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_xxi/m.json",
+        "id_contest": 3
+    },
+    {
+        "letra_pregunta": "N",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_xxi/n.json",
+        "id_contest": 3
+    },
+    {
+        "letra_pregunta": "A",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_xxvi/a.json",
+        "id_contest": 4
+    },
+    {
+        "letra_pregunta": "B",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_xxvi/b.json",
+        "id_contest": 4
+    },
+    {
+        "letra_pregunta": "C",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_xxvi/c.json",
+        "id_contest": 4
+    },
+    {
+        "letra_pregunta": "D",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_xxvi/d.json",
+        "id_contest": 4
+    },
+    {
+        "letra_pregunta": "E",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_xxvi/e.json",
+        "id_contest": 4
+    },
+    {
+        "letra_pregunta": "F",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_xxvi/f.json",
+        "id_contest": 4
+    },
+    {
+        "letra_pregunta": "G",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_xxvi/g.json",
+        "id_contest": 4
+    },
+    {
+        "letra_pregunta": "H",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_xxvi/h.json",
+        "id_contest": 4
+    },
+    {
+        "letra_pregunta": "I",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_xxvi/i.json",
+        "id_contest": 4
+    },
+    {
+        "letra_pregunta": "J",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_xxvi/j.json",
+        "id_contest": 4
+    },
+    {
+        "letra_pregunta": "K",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_xxvi/k.json",
+        "id_contest": 4
+    },
+    {
+        "letra_pregunta": "L",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_xxvi/l.json",
+        "id_contest": 4
+    },
+    {
+        "letra_pregunta": "M",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_xxvi/m.json",
+        "id_contest": 4
+    },
+    {
+        "letra_pregunta": "N",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_xxvi/n.json",
+        "id_contest": 4
+    },
+    {
+        "letra_pregunta": "A",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_xxviii/a.json",
+        "id_contest": 5
+    },
+    {
+        "letra_pregunta": "B",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_xxviii/b.json",
+        "id_contest": 5
+    },
+    {
+        "letra_pregunta": "C",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_xxviii/c.json",
+        "id_contest": 5
+    },
+    {
+        "letra_pregunta": "D",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_xxviii/d.json",
+        "id_contest": 5
+    },
+    {
+        "letra_pregunta": "E",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_xxviii/e.json",
+        "id_contest": 5
+    },
+    {
+        "letra_pregunta": "F",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_xxviii/f.json",
+        "id_contest": 5
+    },
+    {
+        "letra_pregunta": "G",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_xxviii/g.json",
+        "id_contest": 5
+    },
+    {
+        "letra_pregunta": "H",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_xxviii/h.json",
+        "id_contest": 5
+    },
+    {
+        "letra_pregunta": "I",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_xxviii/i.json",
+        "id_contest": 5
+    },
+    {
+        "letra_pregunta": "J",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_xxviii/j.json",
+        "id_contest": 5
+    },
+    {
+        "letra_pregunta": "K",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_xxviii/k.json",
+        "id_contest": 5
+    },
+    {
+        "letra_pregunta": "L",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_xxviii/l.json",
+        "id_contest": 5
+    },
+    {
+        "letra_pregunta": "M",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_xxviii/m.json",
+        "id_contest": 5
+    },
+    {
+        "letra_pregunta": "N",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_xxviii/n.json",
+        "id_contest": 5
+    },
+    {
+        "letra_pregunta": "A",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_xxii/a.json",
+        "id_contest": 6
+    },
+    {
+        "letra_pregunta": "B",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_xxii/b.json",
+        "id_contest": 6
+    },
+    {
+        "letra_pregunta": "C",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_xxii/c.json",
+        "id_contest": 6
+    },
+    {
+        "letra_pregunta": "D",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_xxii/d.json",
+        "id_contest": 6
+    },
+    {
+        "letra_pregunta": "E",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_xxii/e.json",
+        "id_contest": 6
+    },
+    {
+        "letra_pregunta": "F",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_xxii/f.json",
+        "id_contest": 6
+    },
+    {
+        "letra_pregunta": "G",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_xxii/g.json",
+        "id_contest": 6
+    },
+    {
+        "letra_pregunta": "H",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_xxii/h.json",
+        "id_contest": 6
+    },
+    {
+        "letra_pregunta": "I",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_xxii/i.json",
+        "id_contest": 6
+    },
+    {
+        "letra_pregunta": "J",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_xxii/j.json",
+        "id_contest": 6
+    },
+    {
+        "letra_pregunta": "K",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_xxii/k.json",
+        "id_contest": 6
+    },
+    {
+        "letra_pregunta": "L",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_xxii/l.json",
+        "id_contest": 6
+    },
+    {
+        "letra_pregunta": "M",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_xxii/m.json",
+        "id_contest": 6
+    },
+    {
+        "letra_pregunta": "N",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_xxii/n.json",
+        "id_contest": 6
+    },
+    {
+        "letra_pregunta": "A",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_xix/a.json",
+        "id_contest": 7
+    },
+    {
+        "letra_pregunta": "B",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_xix/b.json",
+        "id_contest": 7
+    },
+    {
+        "letra_pregunta": "C",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_xix/c.json",
+        "id_contest": 7
+    },
+    {
+        "letra_pregunta": "D",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_xix/d.json",
+        "id_contest": 7
+    },
+    {
+        "letra_pregunta": "E",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_xix/e.json",
+        "id_contest": 7
+    },
+    {
+        "letra_pregunta": "F",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_xix/f.json",
+        "id_contest": 7
+    },
+    {
+        "letra_pregunta": "G",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_xix/g.json",
+        "id_contest": 7
+    },
+    {
+        "letra_pregunta": "H",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_xix/h.json",
+        "id_contest": 7
+    },
+    {
+        "letra_pregunta": "I",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_xix/i.json",
+        "id_contest": 7
+    },
+    {
+        "letra_pregunta": "J",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_xix/j.json",
+        "id_contest": 7
+    },
+    {
+        "letra_pregunta": "K",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_xix/k.json",
+        "id_contest": 7
+    },
+    {
+        "letra_pregunta": "L",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_xix/l.json",
+        "id_contest": 7
+    },
+    {
+        "letra_pregunta": "M",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_xix/m.json",
+        "id_contest": 7
+    },
+    {
+        "letra_pregunta": "N",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_xix/n.json",
+        "id_contest": 7
+    },
+    {
+        "letra_pregunta": "A",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_xxx/a.json",
+        "id_contest": 8
+    },
+    {
+        "letra_pregunta": "B",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_xxx/b.json",
+        "id_contest": 8
+    },
+    {
+        "letra_pregunta": "C",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_xxx/c.json",
+        "id_contest": 8
+    },
+    {
+        "letra_pregunta": "D",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_xxx/d.json",
+        "id_contest": 8
+    },
+    {
+        "letra_pregunta": "E",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_xxx/e.json",
+        "id_contest": 8
+    },
+    {
+        "letra_pregunta": "F",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_xxx/f.json",
+        "id_contest": 8
+    },
+    {
+        "letra_pregunta": "G",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_xxx/g.json",
+        "id_contest": 8
+    },
+    {
+        "letra_pregunta": "H",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_xxx/h.json",
+        "id_contest": 8
+    },
+    {
+        "letra_pregunta": "I",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_xxx/i.json",
+        "id_contest": 8
+    },
+    {
+        "letra_pregunta": "J",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_xxx/j.json",
+        "id_contest": 8
+    },
+    {
+        "letra_pregunta": "K",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_xxx/k.json",
+        "id_contest": 8
+    },
+    {
+        "letra_pregunta": "L",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_xxx/l.json",
+        "id_contest": 8
+    },
+    {
+        "letra_pregunta": "M",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_xxx/m.json",
+        "id_contest": 8
+    },
+    {
+        "letra_pregunta": "N",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_xxx/n.json",
+        "id_contest": 8
+    },
+    {
+        "letra_pregunta": "A",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_xxiii/a.json",
+        "id_contest": 9
+    },
+    {
+        "letra_pregunta": "B",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_xxiii/b.json",
+        "id_contest": 9
+    },
+    {
+        "letra_pregunta": "C",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_xxiii/c.json",
+        "id_contest": 9
+    },
+    {
+        "letra_pregunta": "D",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_xxiii/d.json",
+        "id_contest": 9
+    },
+    {
+        "letra_pregunta": "E",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_xxiii/e.json",
+        "id_contest": 9
+    },
+    {
+        "letra_pregunta": "F",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_xxiii/f.json",
+        "id_contest": 9
+    },
+    {
+        "letra_pregunta": "G",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_xxiii/g.json",
+        "id_contest": 9
+    },
+    {
+        "letra_pregunta": "H",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_xxiii/h.json",
+        "id_contest": 9
+    },
+    {
+        "letra_pregunta": "I",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_xxiii/i.json",
+        "id_contest": 9
+    },
+    {
+        "letra_pregunta": "J",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_xxiii/j.json",
+        "id_contest": 9
+    },
+    {
+        "letra_pregunta": "K",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_xxiii/k.json",
+        "id_contest": 9
+    },
+    {
+        "letra_pregunta": "L",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_xxiii/l.json",
+        "id_contest": 9
+    },
+    {
+        "letra_pregunta": "M",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_xxiii/m.json",
+        "id_contest": 9
+    },
+    {
+        "letra_pregunta": "N",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_xxiii/n.json",
+        "id_contest": 9
+    },
+    {
+        "letra_pregunta": "A",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_ii/a.json",
+        "id_contest": 10
+    },
+    {
+        "letra_pregunta": "B",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_ii/b.json",
+        "id_contest": 10
+    },
+    {
+        "letra_pregunta": "C",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_ii/c.json",
+        "id_contest": 10
+    },
+    {
+        "letra_pregunta": "D",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_ii/d.json",
+        "id_contest": 10
+    },
+    {
+        "letra_pregunta": "E",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_ii/e.json",
+        "id_contest": 10
+    },
+    {
+        "letra_pregunta": "F",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_ii/f.json",
+        "id_contest": 10
+    },
+    {
+        "letra_pregunta": "G",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_ii/g.json",
+        "id_contest": 10
+    },
+    {
+        "letra_pregunta": "H",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_ii/h.json",
+        "id_contest": 10
+    },
+    {
+        "letra_pregunta": "I",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_ii/i.json",
+        "id_contest": 10
+    },
+    {
+        "letra_pregunta": "J",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_ii/j.json",
+        "id_contest": 10
+    },
+    {
+        "letra_pregunta": "K",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_ii/k.json",
+        "id_contest": 10
+    },
+    {
+        "letra_pregunta": "L",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_ii/l.json",
+        "id_contest": 10
+    },
+    {
+        "letra_pregunta": "M",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_ii/m.json",
+        "id_contest": 10
+    },
+    {
+        "letra_pregunta": "N",
+        "info_pregunta": "htttps://acm-cusco/banco-preguntas/edicion_ii/n.json",
+        "id_contest": 10
+    }
+]

@@ -1,0 +1,177 @@
+[
+    {
+        "fecha_inclusion": "2016-3-28",
+        "es_lider": false,
+        "estado_miembro": false,
+        "id_team": 3,
+        "id_miembro": 14
+    },
+    {
+        "fecha_inclusion": "2005-8-12",
+        "es_lider": true,
+        "estado_miembro": true,
+        "id_team": 3,
+        "id_miembro": 24
+    },
+    {
+        "fecha_inclusion": "2006-1-28",
+        "es_lider": true,
+        "estado_miembro": false,
+        "id_team": 5,
+        "id_miembro": 13
+    },
+    {
+        "fecha_inclusion": "2007-8-12",
+        "es_lider": true,
+        "estado_miembro": false,
+        "id_team": 4,
+        "id_miembro": 3
+    },
+    {
+        "fecha_inclusion": "2023-10-8",
+        "es_lider": false,
+        "estado_miembro": true,
+        "id_team": 2,
+        "id_miembro": 24
+    },
+    {
+        "fecha_inclusion": "2001-9-3",
+        "es_lider": true,
+        "estado_miembro": false,
+        "id_team": 3,
+        "id_miembro": 4
+    },
+    {
+        "fecha_inclusion": "2014-8-24",
+        "es_lider": false,
+        "estado_miembro": true,
+        "id_team": 5,
+        "id_miembro": 24
+    },
+    {
+        "fecha_inclusion": "2004-4-6",
+        "es_lider": false,
+        "estado_miembro": true,
+        "id_team": 2,
+        "id_miembro": 7
+    },
+    {
+        "fecha_inclusion": "2005-4-14",
+        "es_lider": false,
+        "estado_miembro": false,
+        "id_team": 2,
+        "id_miembro": 15
+    },
+    {
+        "fecha_inclusion": "2010-4-19",
+        "es_lider": true,
+        "estado_miembro": false,
+        "id_team": 3,
+        "id_miembro": 12
+    },
+    {
+        "fecha_inclusion": "2009-4-2",
+        "es_lider": true,
+        "estado_miembro": false,
+        "id_team": 1,
+        "id_miembro": 19
+    },
+    {
+        "fecha_inclusion": "2009-6-25",
+        "es_lider": false,
+        "estado_miembro": false,
+        "id_team": 3,
+        "id_miembro": 1
+    },
+    {
+        "fecha_inclusion": "2019-1-2",
+        "es_lider": true,
+        "estado_miembro": true,
+        "id_team": 5,
+        "id_miembro": 15
+    },
+    {
+        "fecha_inclusion": "2014-5-7",
+        "es_lider": false,
+        "estado_miembro": true,
+        "id_team": 3,
+        "id_miembro": 16
+    },
+    {
+        "fecha_inclusion": "2014-10-20",
+        "es_lider": true,
+        "estado_miembro": false,
+        "id_team": 3,
+        "id_miembro": 11
+    },
+    {
+        "fecha_inclusion": "2005-11-5",
+        "es_lider": false,
+        "estado_miembro": true,
+        "id_team": 3,
+        "id_miembro": 5
+    },
+    {
+        "fecha_inclusion": "2016-12-4",
+        "es_lider": false,
+        "estado_miembro": true,
+        "id_team": 2,
+        "id_miembro": 7
+    },
+    {
+        "fecha_inclusion": "2006-7-3",
+        "es_lider": false,
+        "estado_miembro": true,
+        "id_team": 2,
+        "id_miembro": 20
+    },
+    {
+        "fecha_inclusion": "2019-4-20",
+        "es_lider": false,
+        "estado_miembro": true,
+        "id_team": 3,
+        "id_miembro": 6
+    },
+    {
+        "fecha_inclusion": "2005-9-13",
+        "es_lider": false,
+        "estado_miembro": true,
+        "id_team": 5,
+        "id_miembro": 3
+    },
+    {
+        "fecha_inclusion": "2000-4-13",
+        "es_lider": true,
+        "estado_miembro": false,
+        "id_team": 3,
+        "id_miembro": 16
+    },
+    {
+        "fecha_inclusion": "2018-12-12",
+        "es_lider": false,
+        "estado_miembro": false,
+        "id_team": 5,
+        "id_miembro": 7
+    },
+    {
+        "fecha_inclusion": "2006-5-5",
+        "es_lider": true,
+        "estado_miembro": true,
+        "id_team": 1,
+        "id_miembro": 23
+    },
+    {
+        "fecha_inclusion": "2003-12-26",
+        "es_lider": true,
+        "estado_miembro": false,
+        "id_team": 4,
+        "id_miembro": 22
+    },
+    {
+        "fecha_inclusion": "2017-6-9",
+        "es_lider": true,
+        "estado_miembro": false,
+        "id_team": 3,
+        "id_miembro": 16
+    }
+]

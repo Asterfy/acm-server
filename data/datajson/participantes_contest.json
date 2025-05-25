@@ -1,0 +1,317 @@
+[
+    {
+        "universidad": "UTEA",
+        "semestre": "Tercer",
+        "creditos": 17,
+        "id_equipo": 7,
+        "id_alumno_competidor": 9
+    },
+    {
+        "universidad": "Universidad Continental",
+        "semestre": "Tercer",
+        "creditos": 195,
+        "id_equipo": 1,
+        "id_alumno_competidor": 2
+    },
+    {
+        "universidad": "UNSAAC",
+        "semestre": "Sexto",
+        "creditos": 148,
+        "id_equipo": 12,
+        "id_alumno_competidor": 9
+    },
+    {
+        "universidad": "UTEA",
+        "semestre": "Decimo",
+        "creditos": 52,
+        "id_equipo": 2,
+        "id_alumno_competidor": 7
+    },
+    {
+        "universidad": "UAC",
+        "semestre": "Decimo",
+        "creditos": 14,
+        "id_equipo": 4,
+        "id_alumno_competidor": 2
+    },
+    {
+        "universidad": "Universidad Continental",
+        "semestre": "Septimo",
+        "creditos": 11,
+        "id_equipo": 5,
+        "id_alumno_competidor": 7
+    },
+    {
+        "universidad": "UNSAAC",
+        "semestre": "Tercer",
+        "creditos": 8,
+        "id_equipo": 9,
+        "id_alumno_competidor": 8
+    },
+    {
+        "universidad": "UTEA",
+        "semestre": "Noveno",
+        "creditos": 159,
+        "id_equipo": 11,
+        "id_alumno_competidor": 4
+    },
+    {
+        "universidad": "UAC",
+        "semestre": "Primer",
+        "creditos": 3,
+        "id_equipo": 8,
+        "id_alumno_competidor": 1
+    },
+    {
+        "universidad": "UAC",
+        "semestre": "Septimo",
+        "creditos": 73,
+        "id_equipo": 6,
+        "id_alumno_competidor": 3
+    },
+    {
+        "universidad": "Universidad Continental",
+        "semestre": "Cuarto",
+        "creditos": 127,
+        "id_equipo": 2,
+        "id_alumno_competidor": 8
+    },
+    {
+        "universidad": "UNSAAC",
+        "semestre": "Segundo",
+        "creditos": 15,
+        "id_equipo": 7,
+        "id_alumno_competidor": 4
+    },
+    {
+        "universidad": "Universidad Continental",
+        "semestre": "Cuarto",
+        "creditos": 122,
+        "id_equipo": 12,
+        "id_alumno_competidor": 2
+    },
+    {
+        "universidad": "UTEA",
+        "semestre": "Segundo",
+        "creditos": 192,
+        "id_equipo": 1,
+        "id_alumno_competidor": 1
+    },
+    {
+        "universidad": "UNSAAC",
+        "semestre": "Primer",
+        "creditos": 68,
+        "id_equipo": 9,
+        "id_alumno_competidor": 7
+    },
+    {
+        "universidad": "UTEA",
+        "semestre": "Primer",
+        "creditos": 183,
+        "id_equipo": 2,
+        "id_alumno_competidor": 2
+    },
+    {
+        "universidad": "Universidad Continental",
+        "semestre": "Sexto",
+        "creditos": 86,
+        "id_equipo": 4,
+        "id_alumno_competidor": 9
+    },
+    {
+        "universidad": "UAC",
+        "semestre": "Quinto",
+        "creditos": 173,
+        "id_equipo": 8,
+        "id_alumno_competidor": 10
+    },
+    {
+        "universidad": "UAC",
+        "semestre": "Sexto",
+        "creditos": 164,
+        "id_equipo": 12,
+        "id_alumno_competidor": 8
+    },
+    {
+        "universidad": "UNSAAC",
+        "semestre": "Segundo",
+        "creditos": 155,
+        "id_equipo": 11,
+        "id_alumno_competidor": 3
+    },
+    {
+        "universidad": "UTEA",
+        "semestre": "Decimo",
+        "creditos": 78,
+        "id_equipo": 6,
+        "id_alumno_competidor": 1
+    },
+    {
+        "universidad": "UAC",
+        "semestre": "Septimo",
+        "creditos": 181,
+        "id_equipo": 8,
+        "id_alumno_competidor": 6
+    },
+    {
+        "universidad": "Universidad Continental",
+        "semestre": "Septimo",
+        "creditos": 128,
+        "id_equipo": 12,
+        "id_alumno_competidor": 5
+    },
+    {
+        "universidad": "Universidad Continental",
+        "semestre": "Primer",
+        "creditos": 69,
+        "id_equipo": 10,
+        "id_alumno_competidor": 2
+    },
+    {
+        "universidad": "UNSAAC",
+        "semestre": "Tercer",
+        "creditos": 147,
+        "id_equipo": 4,
+        "id_alumno_competidor": 1
+    },
+    {
+        "universidad": "UAC",
+        "semestre": "Sexto",
+        "creditos": 110,
+        "id_equipo": 4,
+        "id_alumno_competidor": 3
+    },
+    {
+        "universidad": "UNSAAC",
+        "semestre": "Quinto",
+        "creditos": 89,
+        "id_equipo": 2,
+        "id_alumno_competidor": 8
+    },
+    {
+        "universidad": "UTEA",
+        "semestre": "Cuarto",
+        "creditos": 169,
+        "id_equipo": 4,
+        "id_alumno_competidor": 2
+    },
+    {
+        "universidad": "UAC",
+        "semestre": "Decimo",
+        "creditos": 150,
+        "id_equipo": 1,
+        "id_alumno_competidor": 4
+    },
+    {
+        "universidad": "UTEA",
+        "semestre": "Septimo",
+        "creditos": 11,
+        "id_equipo": 6,
+        "id_alumno_competidor": 9
+    },
+    {
+        "universidad": "UAC",
+        "semestre": "Noveno",
+        "creditos": 116,
+        "id_equipo": 9,
+        "id_alumno_competidor": 10
+    },
+    {
+        "universidad": "Universidad Continental",
+        "semestre": "Sexto",
+        "creditos": 156,
+        "id_equipo": 7,
+        "id_alumno_competidor": 8
+    },
+    {
+        "universidad": "UTEA",
+        "semestre": "Decimo",
+        "creditos": 81,
+        "id_equipo": 7,
+        "id_alumno_competidor": 7
+    },
+    {
+        "universidad": "UNSAAC",
+        "semestre": "Tercer",
+        "creditos": 120,
+        "id_equipo": 8,
+        "id_alumno_competidor": 8
+    },
+    {
+        "universidad": "Universidad Continental",
+        "semestre": "Septimo",
+        "creditos": 8,
+        "id_equipo": 8,
+        "id_alumno_competidor": 1
+    },
+    {
+        "universidad": "Universidad Continental",
+        "semestre": "Tercer",
+        "creditos": 73,
+        "id_equipo": 12,
+        "id_alumno_competidor": 4
+    },
+    {
+        "universidad": "UTEA",
+        "semestre": "Quinto",
+        "creditos": 23,
+        "id_equipo": 5,
+        "id_alumno_competidor": 6
+    },
+    {
+        "universidad": "UTEA",
+        "semestre": "Octavo",
+        "creditos": 61,
+        "id_equipo": 2,
+        "id_alumno_competidor": 7
+    },
+    {
+        "universidad": "UTEA",
+        "semestre": "Decimo",
+        "creditos": 105,
+        "id_equipo": 2,
+        "id_alumno_competidor": 6
+    },
+    {
+        "universidad": "UAC",
+        "semestre": "Tercer",
+        "creditos": 189,
+        "id_equipo": 1,
+        "id_alumno_competidor": 6
+    },
+    {
+        "universidad": "UTEA",
+        "semestre": "Quinto",
+        "creditos": 9,
+        "id_equipo": 12,
+        "id_alumno_competidor": 4
+    },
+    {
+        "universidad": "Universidad Continental",
+        "semestre": "Tercer",
+        "creditos": 59,
+        "id_equipo": 10,
+        "id_alumno_competidor": 7
+    },
+    {
+        "universidad": "Universidad Continental",
+        "semestre": "Primer",
+        "creditos": 56,
+        "id_equipo": 5,
+        "id_alumno_competidor": 8
+    },
+    {
+        "universidad": "UTEA",
+        "semestre": "Septimo",
+        "creditos": 163,
+        "id_equipo": 4,
+        "id_alumno_competidor": 9
+    },
+    {
+        "universidad": "UAC",
+        "semestre": "Cuarto",
+        "creditos": 121,
+        "id_equipo": 5,
+        "id_alumno_competidor": 6
+    }
+]

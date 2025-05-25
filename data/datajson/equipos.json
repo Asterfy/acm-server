@@ -1,0 +1,74 @@
+[
+    {
+        "nombre_equipo": "Emerald Falcons",
+        "categoria": "Avanzado",
+        "puesto": 5,
+        "id_contest": 2
+    },
+    {
+        "nombre_equipo": "Silver Hawks",
+        "categoria": "Intermedio",
+        "puesto": 4,
+        "id_contest": 6
+    },
+    {
+        "nombre_equipo": "Midnight Panthers",
+        "categoria": "Basico",
+        "puesto": 7,
+        "id_contest": 9
+    },
+    {
+        "nombre_equipo": "Emerald Falcons",
+        "categoria": "Avanzado",
+        "puesto": 4,
+        "id_contest": 1
+    },
+    {
+        "nombre_equipo": "Sunset Serpents",
+        "categoria": "Intermedio",
+        "puesto": 8,
+        "id_contest": 6
+    },
+    {
+        "nombre_equipo": "Storm Riders",
+        "categoria": "Basico",
+        "puesto": 9,
+        "id_contest": 3
+    },
+    {
+        "nombre_equipo": "Tiger Sharks",
+        "categoria": "Avanzado",
+        "puesto": 3,
+        "id_contest": 7
+    },
+    {
+        "nombre_equipo": "Storm Riders",
+        "categoria": "Avanzado",
+        "puesto": 1,
+        "id_contest": 5
+    },
+    {
+        "nombre_equipo": "Storm Riders",
+        "categoria": "Basico",
+        "puesto": 2,
+        "id_contest": 1
+    },
+    {
+        "nombre_equipo": "Ice Wolves",
+        "categoria": "Basico",
+        "puesto": 4,
+        "id_contest": 10
+    },
+    {
+        "nombre_equipo": "Emerald Falcons",
+        "categoria": "Avanzado",
+        "puesto": 5,
+        "id_contest": 6
+    },
+    {
+        "nombre_equipo": "Ice Wolves",
+        "categoria": "Avanzado",
+        "puesto": 7,
+        "id_contest": 1
+    }
+]

@@ -1,0 +1,482 @@
+[
+    {
+        "codigo": "224026",
+        "nombres": "Wayne",
+        "apellido_paterno": "Simpson",
+        "apellido_materno": "Gibson",
+        "numero_telefono": "973992786",
+        "correo": "224026@unsaac.edu.pe"
+    },
+    {
+        "codigo": "003480",
+        "nombres": "Jose",
+        "apellido_paterno": "Anderson",
+        "apellido_materno": "Mcintosh",
+        "numero_telefono": "916960391",
+        "correo": "003480@unsaac.edu.pe"
+    },
+    {
+        "codigo": "900145",
+        "nombres": "Bryan",
+        "apellido_paterno": "Patton",
+        "apellido_materno": "Camacho",
+        "numero_telefono": "938090384",
+        "correo": "900145@unsaac.edu.pe"
+    },
+    {
+        "codigo": "529782",
+        "nombres": "Carrie",
+        "apellido_paterno": "Moreno",
+        "apellido_materno": "Jones",
+        "numero_telefono": "925383870",
+        "correo": "529782@unsaac.edu.pe"
+    },
+    {
+        "codigo": "890504",
+        "nombres": "Tony",
+        "apellido_paterno": "Miranda",
+        "apellido_materno": "Lee",
+        "numero_telefono": "957185515",
+        "correo": "890504@unsaac.edu.pe"
+    },
+    {
+        "codigo": "027577",
+        "nombres": "Jesus",
+        "apellido_paterno": "Smith",
+        "apellido_materno": "Harris",
+        "numero_telefono": "912103583",
+        "correo": "027577@unsaac.edu.pe"
+    },
+    {
+        "codigo": "144699",
+        "nombres": "Casey",
+        "apellido_paterno": "Gray",
+        "apellido_materno": "Kennedy",
+        "numero_telefono": "996102191",
+        "correo": "144699@unsaac.edu.pe"
+    },
+    {
+        "codigo": "192331",
+        "nombres": "Kaylee",
+        "apellido_paterno": "Moore",
+        "apellido_materno": "Boyd",
+        "numero_telefono": "966426308",
+        "correo": "192331@unsaac.edu.pe"
+    },
+    {
+        "codigo": "603111",
+        "nombres": "Barry",
+        "apellido_paterno": "Rodriguez",
+        "apellido_materno": "Poole",
+        "numero_telefono": "949090455",
+        "correo": "603111@unsaac.edu.pe"
+    },
+    {
+        "codigo": "942704",
+        "nombres": "Rodney",
+        "apellido_paterno": "Johnson",
+        "apellido_materno": "Turner",
+        "numero_telefono": "985220973",
+        "correo": "942704@unsaac.edu.pe"
+    },
+    {
+        "codigo": "772068",
+        "nombres": "Vincent",
+        "apellido_paterno": "Bowman",
+        "apellido_materno": "Rodriguez",
+        "numero_telefono": "921969960",
+        "correo": "772068@unsaac.edu.pe"
+    },
+    {
+        "codigo": "006211",
+        "nombres": "Patrick",
+        "apellido_paterno": "Perez",
+        "apellido_materno": "Cruz",
+        "numero_telefono": "975849359",
+        "correo": "006211@unsaac.edu.pe"
+    },
+    {
+        "codigo": "484149",
+        "nombres": "Michael",
+        "apellido_paterno": "Anderson",
+        "apellido_materno": "Dickson",
+        "numero_telefono": "917071443",
+        "correo": "484149@unsaac.edu.pe"
+    },
+    {
+        "codigo": "912458",
+        "nombres": "Tyler",
+        "apellido_paterno": "Weiss",
+        "apellido_materno": "Hernandez",
+        "numero_telefono": "997444089",
+        "correo": "912458@unsaac.edu.pe"
+    },
+    {
+        "codigo": "977074",
+        "nombres": "Bruce",
+        "apellido_paterno": "West",
+        "apellido_materno": "Hernandez",
+        "numero_telefono": "976689434",
+        "correo": "977074@unsaac.edu.pe"
+    },
+    {
+        "codigo": "069585",
+        "nombres": "Sarah",
+        "apellido_paterno": "Campos",
+        "apellido_materno": "Bradley",
+        "numero_telefono": "910760150",
+        "correo": "069585@unsaac.edu.pe"
+    },
+    {
+        "codigo": "766837",
+        "nombres": "Patrick",
+        "apellido_paterno": "Gutierrez",
+        "apellido_materno": "Gomez",
+        "numero_telefono": "968062906",
+        "correo": "766837@unsaac.edu.pe"
+    },
+    {
+        "codigo": "404588",
+        "nombres": "Donna",
+        "apellido_paterno": "Baker",
+        "apellido_materno": "Davis",
+        "numero_telefono": "901065755",
+        "correo": "404588@unsaac.edu.pe"
+    },
+    {
+        "codigo": "292790",
+        "nombres": "Morgan",
+        "apellido_paterno": "Lowe",
+        "apellido_materno": "Gardner",
+        "numero_telefono": "972472339",
+        "correo": "292790@unsaac.edu.pe"
+    },
+    {
+        "codigo": "555280",
+        "nombres": "Robert",
+        "apellido_paterno": "Rogers",
+        "apellido_materno": "Carter",
+        "numero_telefono": "978322770",
+        "correo": "555280@unsaac.edu.pe"
+    },
+    {
+        "codigo": "925070",
+        "nombres": "Curtis",
+        "apellido_paterno": "Sanders",
+        "apellido_materno": "Smith",
+        "numero_telefono": "921936654",
+        "correo": "925070@unsaac.edu.pe"
+    },
+    {
+        "codigo": "385461",
+        "nombres": "Kathleen",
+        "apellido_paterno": "Martin",
+        "apellido_materno": "Solis",
+        "numero_telefono": "928656864",
+        "correo": "385461@unsaac.edu.pe"
+    },
+    {
+        "codigo": "432323",
+        "nombres": "Beth",
+        "apellido_paterno": "Zavala",
+        "apellido_materno": "Irwin",
+        "numero_telefono": "971076718",
+        "correo": "432323@unsaac.edu.pe"
+    },
+    {
+        "codigo": "180434",
+        "nombres": "Terry",
+        "apellido_paterno": "Morales",
+        "apellido_materno": "Miller",
+        "numero_telefono": "915781227",
+        "correo": "180434@unsaac.edu.pe"
+    },
+    {
+        "codigo": "823190",
+        "nombres": "Morgan",
+        "apellido_paterno": "James",
+        "apellido_materno": "Horn",
+        "numero_telefono": "946666269",
+        "correo": "823190@unsaac.edu.pe"
+    },
+    {
+        "codigo": "769337",
+        "nombres": "Edward",
+        "apellido_paterno": "Mitchell",
+        "apellido_materno": "Monroe",
+        "numero_telefono": "944627113",
+        "correo": "769337@unsaac.edu.pe"
+    },
+    {
+        "codigo": "273450",
+        "nombres": "Jeffery",
+        "apellido_paterno": "Moore",
+        "apellido_materno": "Weber",
+        "numero_telefono": "925182689",
+        "correo": "273450@unsaac.edu.pe"
+    },
+    {
+        "codigo": "259900",
+        "nombres": "Jennifer",
+        "apellido_paterno": "Smith",
+        "apellido_materno": "Moore",
+        "numero_telefono": "972700035",
+        "correo": "259900@unsaac.edu.pe"
+    },
+    {
+        "codigo": "513222",
+        "nombres": "Jonathan",
+        "apellido_paterno": "Holmes",
+        "apellido_materno": "Boyd",
+        "numero_telefono": "988240203",
+        "correo": "513222@unsaac.edu.pe"
+    },
+    {
+        "codigo": "007103",
+        "nombres": "Kevin",
+        "apellido_paterno": "Rojas",
+        "apellido_materno": "Morton",
+        "numero_telefono": "973718424",
+        "correo": "007103@unsaac.edu.pe"
+    },
+    {
+        "codigo": "091386",
+        "nombres": "Eric",
+        "apellido_paterno": "Gardner",
+        "apellido_materno": "Russell",
+        "numero_telefono": "911817594",
+        "correo": "091386@unsaac.edu.pe"
+    },
+    {
+        "codigo": "168736",
+        "nombres": "Victor",
+        "apellido_paterno": "Peters",
+        "apellido_materno": "Pineda",
+        "numero_telefono": "978464733",
+        "correo": "168736@unsaac.edu.pe"
+    },
+    {
+        "codigo": "834510",
+        "nombres": "Amy",
+        "apellido_paterno": "Bates",
+        "apellido_materno": "Watkins",
+        "numero_telefono": "949367887",
+        "correo": "834510@unsaac.edu.pe"
+    },
+    {
+        "codigo": "870207",
+        "nombres": "Rebecca",
+        "apellido_paterno": "Evans",
+        "apellido_materno": "Benson",
+        "numero_telefono": "929732953",
+        "correo": "870207@unsaac.edu.pe"
+    },
+    {
+        "codigo": "162632",
+        "nombres": "Erin",
+        "apellido_paterno": "Hutchinson",
+        "apellido_materno": "Tyler",
+        "numero_telefono": "920571932",
+        "correo": "162632@unsaac.edu.pe"
+    },
+    {
+        "codigo": "825180",
+        "nombres": "William",
+        "apellido_paterno": "Mason",
+        "apellido_materno": "Henry",
+        "numero_telefono": "957209672",
+        "correo": "825180@unsaac.edu.pe"
+    },
+    {
+        "codigo": "462468",
+        "nombres": "Joshua",
+        "apellido_paterno": "Gray",
+        "apellido_materno": "Ortiz",
+        "numero_telefono": "913307018",
+        "correo": "462468@unsaac.edu.pe"
+    },
+    {
+        "codigo": "190469",
+        "nombres": "Brenda",
+        "apellido_paterno": "Carr",
+        "apellido_materno": "Torres",
+        "numero_telefono": "991535295",
+        "correo": "190469@unsaac.edu.pe"
+    },
+    {
+        "codigo": "673120",
+        "nombres": "Alan",
+        "apellido_paterno": "Clarke",
+        "apellido_materno": "Schultz",
+        "numero_telefono": "903982214",
+        "correo": "673120@unsaac.edu.pe"
+    },
+    {
+        "codigo": "469308",
+        "nombres": "Jeffrey",
+        "apellido_paterno": "Castro",
+        "apellido_materno": "Perez",
+        "numero_telefono": "941560439",
+        "correo": "469308@unsaac.edu.pe"
+    },
+    {
+        "codigo": "139157",
+        "nombres": "Jeffrey",
+        "apellido_paterno": "Anderson",
+        "apellido_materno": "Gonzalez",
+        "numero_telefono": "906821845",
+        "correo": "139157@unsaac.edu.pe"
+    },
+    {
+        "codigo": "493778",
+        "nombres": "Vincent",
+        "apellido_paterno": "Brown",
+        "apellido_materno": "Miller",
+        "numero_telefono": "964013415",
+        "correo": "493778@unsaac.edu.pe"
+    },
+    {
+        "codigo": "472307",
+        "nombres": "Greg",
+        "apellido_paterno": "Trevino",
+        "apellido_materno": "Ashley",
+        "numero_telefono": "972472966",
+        "correo": "472307@unsaac.edu.pe"
+    },
+    {
+        "codigo": "555977",
+        "nombres": "Tammy",
+        "apellido_paterno": "Ford",
+        "apellido_materno": "Gonzalez",
+        "numero_telefono": "967228054",
+        "correo": "555977@unsaac.edu.pe"
+    },
+    {
+        "codigo": "523213",
+        "nombres": "John",
+        "apellido_paterno": "Cook",
+        "apellido_materno": "Perez",
+        "numero_telefono": "976147466",
+        "correo": "523213@unsaac.edu.pe"
+    },
+    {
+        "codigo": "242156",
+        "nombres": "Kimberly",
+        "apellido_paterno": "Smith",
+        "apellido_materno": "Lopez",
+        "numero_telefono": "963973806",
+        "correo": "242156@unsaac.edu.pe"
+    },
+    {
+        "codigo": "062328",
+        "nombres": "Erin",
+        "apellido_paterno": "Mccullough",
+        "apellido_materno": "Williams",
+        "numero_telefono": "917743473",
+        "correo": "062328@unsaac.edu.pe"
+    },
+    {
+        "codigo": "393453",
+        "nombres": "Mary",
+        "apellido_paterno": "Benson",
+        "apellido_materno": "Wright",
+        "numero_telefono": "981915934",
+        "correo": "393453@unsaac.edu.pe"
+    },
+    {
+        "codigo": "851350",
+        "nombres": "Melissa",
+        "apellido_paterno": "Newman",
+        "apellido_materno": "Lozano",
+        "numero_telefono": "943502367",
+        "correo": "851350@unsaac.edu.pe"
+    },
+    {
+        "codigo": "689730",
+        "nombres": "Craig",
+        "apellido_paterno": "Shaw",
+        "apellido_materno": "Walsh",
+        "numero_telefono": "909348788",
+        "correo": "689730@unsaac.edu.pe"
+    },
+    {
+        "codigo": "500151",
+        "nombres": "Monica",
+        "apellido_paterno": "Barnett",
+        "apellido_materno": "Ross",
+        "numero_telefono": "939311612",
+        "correo": "500151@unsaac.edu.pe"
+    },
+    {
+        "codigo": "897789",
+        "nombres": "Jamie",
+        "apellido_paterno": "Combs",
+        "apellido_materno": "Wilson",
+        "numero_telefono": "976926854",
+        "correo": "897789@unsaac.edu.pe"
+    },
+    {
+        "codigo": "471074",
+        "nombres": "Gregory",
+        "apellido_paterno": "Williams",
+        "apellido_materno": "Davis",
+        "numero_telefono": "903808923",
+        "correo": "471074@unsaac.edu.pe"
+    },
+    {
+        "codigo": "139029",
+        "nombres": "Nicholas",
+        "apellido_paterno": "Jones",
+        "apellido_materno": "Diaz",
+        "numero_telefono": "926433824",
+        "correo": "139029@unsaac.edu.pe"
+    },
+    {
+        "codigo": "039554",
+        "nombres": "Anthony",
+        "apellido_paterno": "Palmer",
+        "apellido_materno": "Hart",
+        "numero_telefono": "969212538",
+        "correo": "039554@unsaac.edu.pe"
+    },
+    {
+        "codigo": "023165",
+        "nombres": "Charles",
+        "apellido_paterno": "Patel",
+        "apellido_materno": "Anderson",
+        "numero_telefono": "961095806",
+        "correo": "023165@unsaac.edu.pe"
+    },
+    {
+        "codigo": "263992",
+        "nombres": "Veronica",
+        "apellido_paterno": "Harris",
+        "apellido_materno": "Rojas",
+        "numero_telefono": "931075873",
+        "correo": "263992@unsaac.edu.pe"
+    },
+    {
+        "codigo": "675477",
+        "nombres": "James",
+        "apellido_paterno": "Taylor",
+        "apellido_materno": "Reeves",
+        "numero_telefono": "946948765",
+        "correo": "675477@unsaac.edu.pe"
+    },
+    {
+        "codigo": "040434",
+        "nombres": "Tanya",
+        "apellido_paterno": "Lawson",
+        "apellido_materno": "Rose",
+        "numero_telefono": "910532481",
+        "correo": "040434@unsaac.edu.pe"
+    },
+    {
+        "codigo": "816415",
+        "nombres": "John",
+        "apellido_paterno": "King",
+        "apellido_materno": "Turner",
+        "numero_telefono": "997917198",
+        "correo": "816415@unsaac.edu.pe"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "nombre_rol": "Student",
+        "permiso": "Delete"
+    },
+    {
+        "nombre_rol": "Member",
+        "permiso": "Delete"
+    },
+    {
+        "nombre_rol": "Member",
+        "permiso": "Read"
+    },
+    {
+        "nombre_rol": "Member",
+        "permiso": "Read"
+    },
+    {
+        "nombre_rol": "Admin",
+        "permiso": "Delete"
+    }
+]

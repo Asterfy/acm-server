@@ -1,0 +1,22 @@
+[
+    {
+        "nombre_team": "Sunset Serpents",
+        "description": "Circulo de estudios especializados en cloud computing"
+    },
+    {
+        "nombre_team": "Midnight Panthers",
+        "description": "Circulo de estudios especializados en cloud computing"
+    },
+    {
+        "nombre_team": "Golden Eagles",
+        "description": "Circulo de estudios especializados en game development"
+    },
+    {
+        "nombre_team": "Tiger Sharks",
+        "description": "Circulo de estudios especializados en game development"
+    },
+    {
+        "nombre_team": "Thunderbolts",
+        "description": "Circulo de estudios especializados en machine learning"
+    }
+]

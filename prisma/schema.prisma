@@ -1,0 +1,130 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+// Looking for ways to speed up your queries, or scale easily with your serverless or edge functions?
+// Try Prisma Accelerate: https://pris.ly/cli/accelerate-init
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model alumnos {
+  id                   Int                    @id @default(autoincrement())
+  codigo               String                 @db.VarChar(255)
+  nombres              String                 @db.VarChar(255)
+  apellido_paterno     String                 @db.VarChar(255)
+  apellido_materno     String                 @db.VarChar(255)
+  numero_telefono      String                 @db.VarChar(255)
+  correo               String                 @db.VarChar(255)
+  alumnos_competidores alumnos_competidores[]
+  miembros             miembros[]
+}
+
+model alumnos_competidores {
+  id                    Int                     @id @default(autoincrement())
+  lenguaje_dominio      String?                 @db.VarChar(255)
+  area_especialidad     String?                 @db.VarChar(255)
+  id_alumno             Int?
+  alumnos               alumnos?                @relation(fields: [id_alumno], references: [id])
+  participantes_contest participantes_contest[]
+}
+
+model contests {
+  id          BigInt      @id @default(autoincrement())
+  edicion     String      @db.VarChar(255)
+  description String      @db.VarChar(255)
+  fecha       DateTime    @db.Timestamptz(6)
+  anio        Int
+  id_semestre BigInt?
+  semestre    semestre?   @relation(fields: [id_semestre], references: [id])
+  equipos     equipos[]
+  preguntas   preguntas[]
+}
+
+model equipos {
+  id                    Int                     @id @default(autoincrement())
+  nombre_equipo         String                  @db.VarChar(255)
+  categoria             String                  @db.VarChar(255)
+  puesto                Int?
+  id_contest            BigInt?
+  contests              contests?               @relation(fields: [id_contest], references: [id])
+  participantes_contest participantes_contest[]
+}
+
+model miembros {
+  id                  BigInt                @id @default(autoincrement())
+  github_username     String                @db.VarChar(255)
+  username            String                @db.VarChar(255)
+  password            String                @db.VarChar(255)
+  id_alumno           Int?
+  id_rol              BigInt?
+  alumnos             alumnos?              @relation(fields: [id_alumno], references: [id])
+  roles               roles?                @relation(fields: [id_rol], references: [id])
+  miembros_team       miembros_team[]
+  scientific_articles scientific_articles[]
+}
+
+model miembros_team {
+  id              BigInt    @id @default(autoincrement())
+  fecha_inclusion DateTime? @db.Timestamptz(6)
+  es_lider        Boolean?  @default(false)
+  estado_miembro  Boolean?  @default(true)
+  id_miembro      BigInt?
+  id_team         BigInt?
+  miembros        miembros? @relation(fields: [id_miembro], references: [id], onDelete: Cascade)
+  teams           teams?    @relation(fields: [id_team], references: [id], onDelete: Cascade)
+}
+
+model participantes_contest {
+  id                   Int                   @id @default(autoincrement())
+  universidad          String                @db.VarChar(255)
+  semestre             String                @db.VarChar(255)
+  creditos             Int
+  id_equipo            Int?
+  id_alumno_competidor Int?
+  alumnos_competidores alumnos_competidores? @relation(fields: [id_alumno_competidor], references: [id], onDelete: Cascade)
+  equipos              equipos?              @relation(fields: [id_equipo], references: [id], onDelete: Cascade)
+}
+
+model preguntas {
+  id             BigInt    @id @default(autoincrement())
+  letra_pregunta String    @db.VarChar(255)
+  info_pregunta  String    @db.VarChar(255)
+  id_contest     BigInt?
+  contests       contests? @relation(fields: [id_contest], references: [id])
+}
+
+model roles {
+  id         BigInt     @id @default(autoincrement())
+  nombre_rol String     @db.VarChar(255)
+  permiso    String     @db.VarChar(255)
+  miembros   miembros[]
+}
+
+model scientific_articles {
+  id                BigInt    @id @default(autoincrement())
+  titulo_articulo   String    @db.VarChar(255)
+  doi               String    @db.VarChar(255)
+  pdf_link          String    @db.VarChar(255)
+  fecha_publicacion DateTime? @db.Timestamptz(6)
+  id_miembro        BigInt?
+  miembros          miembros? @relation(fields: [id_miembro], references: [id])
+}
+
+model semestre {
+  id              BigInt     @id @default(autoincrement())
+  nombre_semestre String     @db.VarChar(255)
+  contests        contests[]
+}
+
+model teams {
+  id            BigInt          @id @default(autoincrement())
+  nombre_team   String          @db.VarChar(255)
+  description   String          @db.VarChar(255)
+  miembros_team miembros_team[]
+}
